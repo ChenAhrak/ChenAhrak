@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Chen</h1>
-<h3 align="center">Computer Science student at Ariel University</h3>
+<h3 align="center">Computer Science student at Ruppin Academic Center</h3>
 
 <h3 align="center"> 
   
@@ -12,9 +12,9 @@
 
 <h3> 📫 Contact Me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/tal-malchi-39855b214/)](http://www.linkedin.com/in/tal-malchi-39855b214/)
-[![Gmail Badge](https://img.shields.io/badge/-malchital@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itaygrx@gmail.com)](mailto:malchital@gmail.com)
-<a href="https://he-il.facebook.com/tal.malchi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="20"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/tal-malchi-39855b214/)](https://www.linkedin.com/in/chen-ahrak-45256322b//)
+[![Gmail Badge](https://img.shields.io/badge/-chenahrak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itaygrx@gmail.com)](mailto:chenahrak@gmail.com)
+<!--<a href="https://he-il.facebook.com/tal.malchi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="20"/></a>-->
 
 
 <h1> 🔬 My Knowlege:</h1>
