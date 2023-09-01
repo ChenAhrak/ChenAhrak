@@ -4,8 +4,8 @@
 <h3 align="center"> 
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=itay-kar.itay-kar) 
-[![Github](https://img.shields.io/github/followers/TalMalchi?label=Followers&style=social)](https://github.com/TalMalchi) 
-[![GitHub stars](https://img.shields.io/github/stars/TalMalchi?label=Stars&style=social)](https://github.com/TalMalchi)
+[![Github](https://img.shields.io/github/followers/TalMalchi?label=Followers&style=social)](https://github.com/ChenAhrak) 
+[![GitHub stars](https://img.shields.io/github/stars/TalMalchi?label=Stars&style=social)](https://github.com/ChenAhrak)
   
 </h3>
 
