@@ -32,7 +32,8 @@
 
 <h4 align="left">Data Bases:</h3>
 <span>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL" height="40"/>
+    <img src="https://img.shields.io/badge/Microsoft SQL Server-grey?style=for-the-badge&logo=Microsoft SQL Server&logoColor=0000f" alt="Microsoft SQL Server" height="40"/> 
+  <!-- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL" height="40"/>-->
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" height="40"/>     
 <!--     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" height="40"/> -->
 </span>
